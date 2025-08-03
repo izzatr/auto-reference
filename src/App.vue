@@ -6,5 +6,4 @@
 </template>
 
 <style scoped>
-/* Keep any global styles if needed, or remove. */
 </style>

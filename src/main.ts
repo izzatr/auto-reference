@@ -7,4 +7,4 @@ import router from './router'
 
 
 createApp(App).use(router).mount('#app')
-provideApolloClient(apolloClient)  // Provide Apollo client globally for useQuery/useMutation
+provideApolloClient(apolloClient)
